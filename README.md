@@ -1,4 +1,4 @@
-# scapeXperience - Libro de Aventuras Extremas
+# scapeXperience - Booking de Aventuras Extremas
 
 ## Descripción
 
