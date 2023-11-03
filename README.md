@@ -2,7 +2,7 @@
 
 ## Descripción
 
-scapeXperience es un proyecto de un libro de aventuras extremas desarrollado en Spring Boot. Este proyecto demuestra el uso de varias tecnologías y conceptos, como Maven, Hibernate, Spring Security, logs, manejo de excepciones, pruebas unitarias, Postman, creación de endpoints API RESTful, autenticación y autorización, y el uso de DTOs (Data Transfer Objects).
+scapeXperience es un proyecto de un booking de aventuras extremas desarrollado en Spring Boot. Este proyecto demuestra el uso de varias tecnologías y conceptos, como Maven, Hibernate, Spring Security, logs, manejo de excepciones, pruebas unitarias, Postman, creación de endpoints API RESTful, autenticación y autorización, y el uso de DTOs (Data Transfer Objects).
 
 ## Tecnologías y Conceptos Destacados
 
