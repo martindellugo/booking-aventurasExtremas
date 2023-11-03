@@ -1,8 +1,3 @@
-
-Por supuesto, aquí tienes un ejemplo de cómo podría quedar un archivo README para tu proyecto scapeXperience en GitHub:
-
-markdown
-Copy code
 # scapeXperience - Libro de Aventuras Extremas
 
 ## Descripción
